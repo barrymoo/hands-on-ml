@@ -21,3 +21,12 @@ Notebooks in `chapter2/`
     - Perform `GridSearchCV` to identify best model
         - **Probably should have tried `RandomSearchCV` too**
     - Run the model on the test set
+
+#### Chapter 3 - Classification
+
+Notebooks in `chapter3/`
+
+1. [MNIST Classification-Binary.ipynb](MNIST\ Classification-Binary.ipynb)
+    - Binary Stochastic Gradient Descent (SGD) & Random Forest (RF) Classification
+2. [MNIST Classification.ipynb](MNIST\ Classification.ipynb)
+    - Multiclass Classification with SGD, RF, and One-Versus-One Classification
