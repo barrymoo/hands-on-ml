@@ -1,4 +1,4 @@
 *.csv
+*.npy
 save/
-Initial\ Sampling.ipynb
 .ipynb_checkpoints/
